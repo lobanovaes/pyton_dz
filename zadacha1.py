@@ -14,4 +14,4 @@ elif number == 6:
 elif number == 7:
     print('7 - да')
 else: 
-    print ('введен неправильный номер')
+    print ('введен не правильный номер')
