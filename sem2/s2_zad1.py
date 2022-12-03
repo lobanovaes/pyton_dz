@@ -7,5 +7,5 @@
 num = int(input('введите число: '))
 res = 1
 for i in range(1, num+1):
-  print(res, end = '')
+  print(res, end = ' ')
   res*=-3
